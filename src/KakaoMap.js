@@ -45,7 +45,7 @@ function KakaoMap({value, count}) {
             }
             // 검색된 장소 위치를 기준으로 지도 범위를 재설정합니다
             map.setBounds(bounds);
-            map.setDraggable(false);
+            // map.setDraggable(false);
           }
       }
 
