@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-kakao-map/static/css/main.0960b8d6.css",
+    "main.js": "/react-kakao-map/static/js/main.387923c9.js",
+    "static/js/787.be5fa932.chunk.js": "/react-kakao-map/static/js/787.be5fa932.chunk.js",
+    "index.html": "/react-kakao-map/index.html",
+    "main.0960b8d6.css.map": "/react-kakao-map/static/css/main.0960b8d6.css.map",
+    "main.387923c9.js.map": "/react-kakao-map/static/js/main.387923c9.js.map",
+    "787.be5fa932.chunk.js.map": "/react-kakao-map/static/js/787.be5fa932.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0960b8d6.css",
+    "static/js/main.387923c9.js"
+  ]
+}
